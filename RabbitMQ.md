@@ -11,3 +11,11 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 * Consuming Messages/Receiving Messages
 * Queue
 * AMQP
+* Exchange
+* Binding
+* Conforming application
+* Client
+* Server
+
+* Fan out
+* Topic
